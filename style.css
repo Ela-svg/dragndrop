@@ -9,17 +9,6 @@ body {
     position: relative;
 }
 
-.img01 {
-    width: 350px;
-    height: 220px;
-    box-shadow: 5px 5px 5px rgb(42, 42, 42);
-}
-
-.tableau{
-    width: 950px;
-    height: 560px;
-}
-
 .carre{
     width: 200px;
     height: 200px;
